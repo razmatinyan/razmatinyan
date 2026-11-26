@@ -2,7 +2,7 @@
 
 I'm a software engineer based in Yerevan, Armenia, with 5+ years of experience building web platforms from architecture to deployment.
 
-I'm the co-founder of [byroose](https://github.com/razmatinyan/byroose.com), a creative agency combining AI content creation and web development.
+I'm the co-founder of [Forrrow](https://github.com/razmatinyan/forrrow.com), a creative agency combining AI content creation and web development.
 
 I also built [AI Studio](https://ai.zeelproject.com), an AI-powered platform for generating interior designs.
 
